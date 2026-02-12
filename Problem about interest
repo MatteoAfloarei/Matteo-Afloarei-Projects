@@ -1,0 +1,8 @@
+#Write a program that prompts the user to enter the principal amount, rate of interest and time in years, and then calculates and displays the simple interest are: simple interest = (principal * rate * time) / 100.
+principal = float(input("Enter the principal amount: "))
+rate = float(input("Enter the rate of interest: "))
+time = float(input("Enter the time in years: "))
+simple_interest = (principal * rate * time) / 100
+print("The simple interest is:", simple_interest)
+compound_interest = principal * (1 + rate / 100) ** time - principal
+print("The compound interest is:", compound_interest)
