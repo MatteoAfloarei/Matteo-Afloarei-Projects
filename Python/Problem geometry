@@ -1,0 +1,9 @@
+#Write a program that input the lenght and breadth of a rectangle and display its area and perimeter and lenght of diagonal.
+length = float(input("Enter the length of the rectangle in cm: "))
+breadth = float(input("Enter the breadth of the rectangle in cm: "))
+area = length * breadth
+perimeter = 2 * (length + breadth)
+diagonal = (length ** 2 + breadth ** 2) ** 0.5
+print("Area of the rectangle is:", area, "square cm")
+print("Perimeter of the rectangle is:", perimeter, "cm")
+print("Diagonal of the rectangle is:", diagonal, "cm")

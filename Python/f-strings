@@ -1,0 +1,6 @@
+#How a f-string works
+name = "John"
+age = 30
+print(f"My name is {name} and I am {age} years old.")
+#f-strings is for format a string and put in braces
+#When we use f-strings, we have to know in that variable or expression are braces and we have to put the variable

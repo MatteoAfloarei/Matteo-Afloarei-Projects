@@ -1,0 +1,21 @@
+import os
+import socket
+target = website = input("Enter the website you want to scan: ")
+print(f"Scanning {website} for open ports and IP address...")
+def scan_page(IP_address, port):
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    result = sock.connect_ex((IP_address, port))
+    if result == 0:
+        print(f"Port {port} is open on {IP_address}")
+    else:
+        print(f"Port {port} is closed on {IP_address}")
+    sock.close()
+for port in range(1, 1025):
+    scan_page(target, port)
+    socket.setdefaulttimeout(0.5)
+def get_ip_address(website):
+    try:
+        ip_address = socket.gethostbyname(website)
+        print(f"The IP address of {website} is: {ip_address}")
+    except socket.gaierror:
+        print(f"Could not get IP address for {website}")
