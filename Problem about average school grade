@@ -1,8 +1,0 @@
-#Write a program that promps the user to enter the a student name and marks in 3 subjects. Calculate the percentage marks and display the student's name with percentage.
-name = input("Enter the student's name: ")
-marks_maths = int(input("Enter marks in Maths: "))
-marks_physics = int(input("Enter marks in Physics: "))
-marks_chemistry = int(input("Enter marks in Chemistry: "))
-total_marks = marks_maths + marks_physics + marks_chemistry
-percentage = (total_marks / 300) * 100
-print(name, percentage)
