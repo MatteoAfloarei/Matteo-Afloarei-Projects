@@ -1,0 +1,92 @@
+header{
+    background-color: #f0f0f0;
+   text-align: center;
+}
+.navbar{
+    background-color: #333;
+   height: 50px;
+}
+body{
+    margin: 0px;
+    font-family: Arial, sans-serif;
+}
+aside{
+    width: 20%;
+    float: left;
+    padding: 20px;
+}
+section{
+    width: 40%;
+    float: left;
+    padding: 20px;
+}
+article{
+    width: 40%;
+    float: left;
+    padding: 20px;
+}
+*{
+    box-sizing: border-box;
+}
+footer{
+    background-color: #646363;
+    text-align: center;
+    padding: 25px;
+    clear: both;
+    display: block;
+}
+@media screen and (max-width: 600px){
+    aside, section, article{
+        width: 100%;
+        float: none;
+    }
+} /* The @media rule is used to define different styles for different screen sizes. In this case, when the screen width is 600px or less, the aside, section, and article
+ elements will take up 100% of the width and will not float next to each other. This is useful for making the layout responsive and mobile-friendly. */
+
+ .gallery{
+    display: inline-block;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 5px;
+        width: 200px;
+ }
+ .gallery .description{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+ }
+ .gallert:hover{
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+ }
+ .gallery img{
+    width: 100%;
+    height: auto;
+ }
+ .icons{
+   text-align: center;
+   margin-top: 20px;
+ }
+
+ .icons i {
+   color: #1d4ed8;
+   margin: 0 10px;
+ }
+
+ .icons .fa-house {
+   color: #10b981;
+ }
+
+ .icons .fa-user {
+   color: #1b3aa3;
+ }
+
+ .icons .fa-github {
+   color: #111827;
+ }
+
+ .icons .fa-linkedin {
+   color: #0ea5e9;
+ }
+ .icons a{
+    text-decoration: none;
+ }

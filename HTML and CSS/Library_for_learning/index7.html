@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <script src="https://kit.fontawesome.com/27f02028be.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style7.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>website layout</title>
+    </head>
+    <!-- here we talking about website layout
+        are different types of layouts:
+        <header> = introductory content or navigational links
+            <nav> = a section of a page that links to other pages or to parts within the page
+                <main> = the main content of the <body> of a document or application
+                    <section> = dependent, self-contained content
+                        <aside> = side content
+                            <article> = independent, self-contained content
+                                <footer> = close content for a page or section -->
+    <body>
+        <header>
+         <h2>Header</h2>
+        </header>
+
+        <nav class ="navbar">
+        </nav>
+
+        <main>
+
+         <aside>
+            <h2>Aside</h2>
+            <p>Side content goes here.</p>
+         </aside>
+         
+         <section>
+             <h2>Section</h2>
+             <p>This is the main content section.</p>
+             <p>It can contain multiple paragraphs, images, and other elements.</p>
+         </section>
+
+         <article>
+             <h2>Article</h2>
+             <p>This is an independent, self-contained piece of content.</p>
+             <p>It can be reused and distributed independently.</p>
+         </article>
+
+        </main>
+        <footer>
+            <h2>Footer</h2>
+        </footer>
+     <!-- image gallery -->
+      <div class="gallery">
+        <a target="_blank" href="images/pizza.webp">
+        <img src="images/pizza.webp" alt="Pizza" width="400">
+        </a>
+        <div class="description">Pizza</div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="images/soup.webp">
+        <img src="images/soup.webp" alt="Soup" width="400">
+        </a>
+        <div class="description">Soup</div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="images/salad.webp">
+        <img src="images/salad.webp" alt="Salad" width="400">
+        </a>
+        <div class="description">Salad</div>
+      </div>
+
+      <!-- icons -->
+      <div class="icons">
+      <i class="fa-solid fa-house fa-10x"></i>
+      <i class="fa-solid fa-user fa-10x"></i>
+      <a href="https://github.com" target="_blank">
+      <i class="fa-brands fa-github fa-10x"></i>
+      </a>
+        <a href="https://linkedin.com" target="_blank">
+      <i class="fa-brands fa-linkedin fa-10x"></i>
+        </a>
+      </div>
+      <!-- Flexbox:
+       a layout model that allows elements to be aligned and distributed in a container -->
+       <div class="container" id="box1">1</div>
+       <div class="container" id="box2">2</div>
+        <div class="container" id="box3">3</div>
+        <div class="container" id="box4">4</div>
+    </body>
+</html>
