@@ -10,4 +10,4 @@ If you'd like to evaluate my coding skills, please check the **"Projects"** fold
 ## Currently Learning
 - Python
 - JavaScript
--networking
+  Networking
