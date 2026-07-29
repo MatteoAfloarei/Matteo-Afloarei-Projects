@@ -1,0 +1,17 @@
+
+#h1{
+ color: rgb(241, 229, 229);
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size: 2em;
+ font-style: normal;
+ font-weight: bold;
+}
+.h2{
+     color: rgb(255, 255, 255);
+}
+.h3{
+    color: rgb(25, 204, 8);
+}
+#body{
+    background-color: rgb(211, 95, 143);
+}

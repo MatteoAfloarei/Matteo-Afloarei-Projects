@@ -1,0 +1,74 @@
+.h1{
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+    font-weight: bold;
+    border-style: solid;
+    padding: 10px;
+    width: 110px;
+    border-radius: 10px;
+}
+.p{
+    font-size: 1.2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-top: 4px solid rgb(185, 35, 35);
+    border-bottom: 4px solid rgb(185, 35, 35);
+}
+.p2{
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.h2{
+    font-size: 1.8em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 3px 4px 1px hsla(0, 39%, 37%, 0.5);
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 253, 253);
+    box-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+.hr1{
+    border: 2px solid rgb(0, 0, 0);
+   
+}
+.box{
+    border: 5px solid;
+    font-size: 1.5em;
+    width: 58px;
+    height: 58px;
+    
+}
+#box2{
+    background-color: rgb(252, 4, 4);
+}
+#box3{
+    background-color: rgb(4, 252, 4);
+}
+#img1{
+    float: left;
+    margin-right: 20px;
+}
+#img2{
+    float: center;
+    margin-left: 20px;
+    margin-top: 120px;
+  
+}
+body{
+    border: 5px solid rgb(0, 0, 0);
+    display: flow-root;
+}
+.p3{
+    font-size: 0.8em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    text-align: center;
+    margin-right: 1320px;
+    margin-bottom: 20px;    
+    
+    
+}

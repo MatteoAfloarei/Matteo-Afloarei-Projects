@@ -1,0 +1,93 @@
+#container{
+    border: 2px solid black;
+} 
+#container + p{
+    background-color: rgb(128, 17, 17);
+} /*un child combinator ( > ) seleziona solo i figli diretti.
+ invece il descendant ( space ) combinator seleziona tutti gli elementi discendenti.
+ i general sibling ( ~ ) combinator seleziona tutti gli elementi fratelli generali. 
+ il adjacent sibling ( + ) combinator seleziona l'elemento fratello immediatamente successivo. */
+
+
+
+
+ /* le pseudo-classi sono usate per selezionare elementi in base allo stato in cui si trovano */
+button:hover{
+    background-color: rgb(0, 255, 0);
+    font-size: 1.1em;
+} /* la pseudo-classe :hover viene utilizzata per selezionare un elemento quando l'utente passa il cursore del mouse sopra di esso. In questo caso, quando l'utente passa il cursore del mouse sopra un pulsante, il colore di sfondo del pulsante cambia in verde (rgb(0, 255, 0)). */
+
+button:active{
+    background-color: rgb(255, 0, 0);
+    font-size: 1.1em;
+} /* la pseudo-classe :active viene utilizzata per selezionare un elemento quando l'utente lo sta attivamente cliccando. In questo caso, quando l'utente clicca su un pulsante, il colore di sfondo del pulsante cambia in rosso (rgb(255, 0, 0)). */
+button{
+    background-color: rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
+    font-size: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+li:nth-child(odd){
+    background-color: rgb(255, 0, 0);
+} /* la pseudo-classe :nth-child() viene utilizzata per selezionare elementi in base alla loro posizione tra i fratelli. In questo caso, seleziona tutti gli elementi <li> che sono in posizione dispari (odd) tra i loro fratelli e imposta il loro colore di sfondo su rosso (rgb(255, 0, 0)). */ 
+
+h1::first-letter{
+    font-size: 2em;
+    font-style: italic; 
+}
+p::first-line{
+   background-color: rgb(0, 255, 0);
+
+}
+p::selection{
+    background-color: rgb(52, 161, 224);
+    color: rgb(207, 10, 10);
+}
+#fruit li::before{
+    content: "✔️";
+    margin-right: 5px;
+}
+#apple::after{
+    content: "🍎";
+    margin-left: 5px;
+}
+#orange::after{
+    content: "🍊";
+    margin-left: 5px;
+}
+#banana::after{
+    content: "🍌";
+    margin-left: 5px;
+}
+#cherry::after{
+    content: "🍒";
+    margin-left: 5px;
+}
+#date::after{
+    content: "🍑";
+    margin-left: 5px;
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.pagination a{
+    color: rgb(0, 0, 0);
+    padding: 8px 16px;
+    text-decoration: none;
+    display: inline-block;
+}
+.pagination a.active{
+    background-color: hsl(120, 100%, 50%);
+    font-weight: bold;
+    border-radius: 5px;
+}
+.pagination a:hover:not(.active){
+    background-color: hsl(120, 100%, 50%);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+} 
