@@ -9,5 +9,3 @@ In this folder, you'll find a collection of HTML and CSS files that I've created
 Feel free to explore the files, reuse the code, or use them as inspiration for your own projects. As I continue learning and building new projects, this library will be updated with additional examples and improvements.
 
 Thanks for visiting, and I hope you find something useful!
-
-Se vuoi un README più professionale, più minimal o più "developer-style", posso adattarlo.
