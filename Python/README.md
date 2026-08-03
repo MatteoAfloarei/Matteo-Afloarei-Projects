@@ -29,4 +29,5 @@ The repository includes a variety of practice files, such as:
 
 These projects are primarily for learning purposes. Some solutions may be simple, experimental, or improved over time as I continue to learn.
 
-## Technologies
+---
+Thanks. Matteo.
