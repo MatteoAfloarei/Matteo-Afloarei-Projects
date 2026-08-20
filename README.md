@@ -8,8 +8,8 @@ Some folders in this repository, such as **"HTML and CSS"**, are my personal lea
 If you'd like to evaluate my coding skills, please check the **"Projects"** folder. It contains my actual projects and better represents my current abilities as a developer.
 
 ### Core Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
+![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
 
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
