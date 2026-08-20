@@ -7,7 +7,7 @@ I'm from Italy, and I'm currently in my third year of high school, studying Info
 Some folders in this repository, such as **"HTML and CSS"**, are my personal learning library. They contain exercises, notes, and practice code that I used to learn the fundamentals, so they are **not** complete projects.
 If you'd like to evaluate my coding skills, please check the **"Projects"** folder. It contains my actual projects and better represents my current abilities as a developer.
 
-## Currently Learning
+## core skills
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
