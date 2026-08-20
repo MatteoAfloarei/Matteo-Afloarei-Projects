@@ -7,5 +7,5 @@ I'm from Italy, and I'm currently in my third year of high school, studying Info
 Some folders in this repository, such as **"HTML and CSS"**, are my personal learning library. They contain exercises, notes, and practice code that I used to learn the fundamentals, so they are **not** complete projects.
 If you'd like to evaluate my coding skills, please check the **"Projects"** folder. It contains my actual projects and better represents my current abilities as a developer.
 
-## Core Skills
-<img width="1187" height="110" alt="image" src="https://github.com/user-attachments/assets/9da468c0-3e4f-445e-8c31-634cfbb1a06a" />
+### Core Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
