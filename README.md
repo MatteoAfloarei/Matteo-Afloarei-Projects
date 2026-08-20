@@ -8,6 +8,10 @@ Some folders in this repository, such as **"HTML and CSS"**, are my personal lea
 If you'd like to evaluate my coding skills, please check the **"Projects"** folder. It contains my actual projects and better represents my current abilities as a developer.
 
 ## Currently Learning
-- Python
-- JavaScript
-- Bash
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
