@@ -15,3 +15,4 @@ If you'd like to evaluate my coding skills, please check the **"Projects"** fold
   <img src="https://img.shields.io/badge/Bash-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,python,cpp,docker,git)](https://skillicons.dev)
