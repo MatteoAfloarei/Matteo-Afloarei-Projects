@@ -10,6 +10,6 @@ If you'd like to evaluate my coding skills, please check the **"Projects"** fold
 ### Core Skills
 
 
-![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=0000FF)
+![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
