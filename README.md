@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi! I'm Matteo, a teenager who is passionate about coding and exploring the world of IT. My main interests are cybersecurity, web development, app development, and a bit of AI.
+Hi! I'm Matteo, a teenager who is passionate about coding and exploring the world of IT. My main interests are cybersecurity and backend.
 I'm from Italy, and I'm currently in my third year of high school, studying Information Technology.
 
 # What you have to know in my github directory:
