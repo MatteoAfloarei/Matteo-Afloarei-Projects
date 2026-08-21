@@ -13,4 +13,4 @@ If you'd like to evaluate my coding skills, please check the **"Projects"** fold
 ![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### What i now a little
-![Javascript](https://img.shields.io/badge/javascript-121011?style=for-the-badge&logo=gnubash&logoColor=yellow)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
