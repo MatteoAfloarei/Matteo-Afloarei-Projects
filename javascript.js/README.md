@@ -1,3 +1,6 @@
+# THIS FOLDER OF JS IS FOR ME AND WHO WANT TO KNOW SOME JAVASCRIPT.
+# IM NOT A EXPERT OF JS BUT I KNOW A LITTLE 
+
 # Exercises and Learning Basics
 
 This repository contains my **exercises, experiments, and basic projects** created throughout my learning journey.
@@ -21,6 +24,6 @@ The exercises may include:
 
 The main goal of this repository is to **learn through practice**.
 
-Some exercises may be simple, incomplete, or open to improvement. They are part of the learning process and help me gradually build a stronger foundation.
+
 
 > **Every folder is another step in the learning journey.**
