@@ -9,12 +9,6 @@ If you'd like to evaluate my coding skills, please check the **"Projects"** fold
 
 ### Core Skills
 
-
 ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-
-
-## Work in Progress
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
