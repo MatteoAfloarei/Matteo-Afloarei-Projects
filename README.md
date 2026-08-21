@@ -12,3 +12,5 @@ If you'd like to evaluate my coding skills, please check the **"Projects"** fold
 ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
+### What i now a little
+![Javascript](https://img.shields.io/badge/javascript-121011?style=for-the-badge&logo=gnubash&logoColor=white)
