@@ -12,5 +12,10 @@ If you'd like to evaluate my coding skills, please check the **"Projects"** fold
 ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
+
+
 ### What i now a little
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
