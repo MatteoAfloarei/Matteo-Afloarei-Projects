@@ -13,3 +13,4 @@ If you'd like to evaluate my coding skills, please check the **"Projects"** fold
 
 ### What i now a little
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+
