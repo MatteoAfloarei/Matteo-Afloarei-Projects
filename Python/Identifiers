@@ -1,3 +1,0 @@
-__name__ == input
-input("Hi!My Name is Zack,Whats is yours?   ")
-print("Cool Name!Nice to meet you  ")

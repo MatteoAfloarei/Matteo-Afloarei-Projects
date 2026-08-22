@@ -1,5 +1,0 @@
-#Write a program that enter height in inches and displays it in feet and inches.
-ht_inches = int(input("Enter height in inches: "))
-ft = ht_inches // 12
-inches = ht_inches % 12
-print(ft, "feet", inches, "inches")
